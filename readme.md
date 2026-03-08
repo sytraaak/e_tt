@@ -34,4 +34,5 @@ Dependencies:
 
 Spuštění:
 - python main.py
+- script předpokládá, že složka, kterou bude prohledávat se nachází ve stejném adresáři jako script a jmenuje se "folder"
 
