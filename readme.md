@@ -18,12 +18,12 @@ Databáze obsahuje poslední známý stav databáze, případně ji vytvoří, p
 
 Výstup např.:
 
-2026-03-08 16:13:59,278 - __main__ - INFO - Scan finished, scan_id=4
-2026-03-08 16:13:59,278 - __main__ - INFO - Scanned items: 48970
-2026-03-08 16:13:59,278 - __main__ - INFO - Created: 0
-2026-03-08 16:13:59,278 - __main__ - INFO - Modified: 0
-2026-03-08 16:13:59,278 - __main__ - INFO - Renamed: 215
-2026-03-08 16:13:59,278 - __main__ - INFO - Deleted: 57
+2026-03-08 16:13:59,278 - __main__ - INFO - Scan finished, scan_id=4  <br>
+2026-03-08 16:13:59,278 - __main__ - INFO - Scanned items: 48970 <br>
+2026-03-08 16:13:59,278 - __main__ - INFO - Created: 0 <br>
+2026-03-08 16:13:59,278 - __main__ - INFO - Modified: 0 <br>
+2026-03-08 16:13:59,278 - __main__ - INFO - Renamed: 215 <br>
+2026-03-08 16:13:59,278 - __main__ - INFO - Deleted: 57 <br>
 
 Poznámky:
 - chybí podrobné logování
