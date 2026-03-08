@@ -1,0 +1,6 @@
+.venv/
+.idea/
+filesystem_state.db
+folder/
+__pycache__/
+*.pyc
